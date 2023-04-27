@@ -4,7 +4,7 @@ from datetime import datetime
 if __name__ == '__main__':
     f = open("./data.json")
     data_json = json.load(f)
-
+    print(data_json)
     total_number = 0
     total_float_number = 0
     jokers = 0
