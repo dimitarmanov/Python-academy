@@ -5,11 +5,12 @@ if __name__ == '__main__':
     data_json = json.load(f)
     startNum = 0
     name = ''
-    cows = 0
-    pigs = 0
-    goat = 0
-    chicken = 0
-    allAnimals = 0
+    # cows = 0
+    # pigs = 0
+    # goat = 0
+    # chicken = 0
+    # allAnimals = 0
+
     # Loop through farms to get highest daily_milk_yield
     for obj in data_json["farms"]:
         for animal in obj["animals"]:
@@ -17,6 +18,8 @@ if __name__ == '__main__':
                 if startNum < animal['daily_milk_yield']:
                     startNum = animal['daily_milk_yield']
                     name = obj['name']
+    print("The farm with the highest milk yield is", name, "with daily milk yield of", startNum)
+
     # Get all animal types
     animal_types = set()
     for farm in data_json["farms"]:
@@ -30,21 +33,25 @@ if __name__ == '__main__':
         for animal in farm["animals"]:
             animal_type = animal["type"]
             weight = animal["average_weight"]
+
+            # !!! I don't understand this !!! #
             if animal_type in animal_counts:
                 animal_counts[animal_type] += 1
                 animal_weights[animal_type] += weight
             else:
                 animal_counts[animal_type] = 1
                 animal_weights[animal_type] = weight
+
     # Calculate average animal weight, based on entire animal weight / animal type count
     cowsAverageWeight = animal_weights["Cow"] / animal_counts["Cow"]
     chickenAverageWeight = animal_weights["Chicken"] / animal_counts["Chicken"]
     pigAverageWeight = animal_weights["Pig"] / animal_counts["Pig"]
     goatAverageWeight = animal_weights["Goat"] / animal_counts["Goat"]
-    print(cowsAverageWeight)
-    print(chickenAverageWeight)
-    print(pigAverageWeight)
-    print(goatAverageWeight)
+
+    print("The cows average weight is ",cowsAverageWeight)
+    print("The chickens average weight is ",chickenAverageWeight)
+    print("The pigs average weight is ",pigAverageWeight)
+    print("The goats average weight is ",goatAverageWeight)
 
  ## 4. Which animal type has highest feed_cost ##
     animal_type_feed_costs = {}
