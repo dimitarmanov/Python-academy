@@ -57,28 +57,6 @@ if __name__ == '__main__':
     #         # do something with daily_yield here
     # print(daily_yield, crop_types)
     print("--------------------")
-## 3. Каква е средната тегло на прасетата на фермите в региона “South”?
-    region = "South"
-    pig_count = {}
-    pig_weight = {}
-    for farm in data_json["farms"]:
-        if farm["region"] == region:
-            for animal in farm["animals"]:
-                if animal["type"] == "Pig":
-                    pig = animal["type"]
-                    pweight = animal["average_weight"]
-                    if pig in pig_count:
-                        pig_count[pig] += 1
-                        pig_weight[pig] += pweight
-                    else:
-                        pig_count[pig] = 1
-                        pig_weight[pig] = pweight
-    for pig in pig_count:
-        avg_weight = pig_weight[pig] / pig_count[pig]
-        print(f"Average weight of {pig}s in {region} region: {avg_weight}")
-    print("--------------------")
-
-
  ## 4. Which animal type has highest feed_cost ##
     animal_type_feed_costs = {}
 
@@ -101,4 +79,49 @@ if __name__ == '__main__':
 
 
 
+## 6. Каква е средната тегло на прасетата на фермите в региона “South”?
+    s_region = "South"
+    pig_count = {}
+    pig_weight = {}
+    for farm in data_json["farms"]:
+        if farm["region"] == s_region:
+            for animal in farm["animals"]:
+                if animal["type"] == "Pig":
+                    pig = animal["type"]
+                    pweight = animal["average_weight"]
+                    if pig in pig_count:
+                        pig_count[pig] += 1
+                        pig_weight[pig] += pweight
+                    else:
+                        pig_count[pig] = 1
+                        pig_weight[pig] = pweight
+    for pig in pig_count:
+        avg_weight = pig_weight[pig] / pig_count[pig]
+        print(f"Average weight of {pig}s in {s_region} region: {avg_weight}")
+    print("--------------------")
 
+
+## 7. Каква е дневната добивна способност на Soybeans в региона “Rocky Mountains”?
+
+    rm_region = 'Rocky Mountains'
+    soy = 'Soybeans'
+    total_soy = 0
+    for farm in data_json['farms']:
+        for crop in farm['crops']:
+            if farm['region'] == rm_region and crop["type"] == soy:
+                total_soy += crop['daily_yield']
+
+    print(f"The total yield of soybeans in {rm_region} is {total_soy}")
+
+print("--------------------")
+
+# Каква е общата дневна добивна способност на всички култури в региона “Southwest”?
+
+sw_region = 'Southwest'
+total_crop_yield = 0
+for farm in data_json['farms']:
+    if farm['region'] == sw_region:
+            for crop in farm['crops']:
+                total_crop_yield += crop['daily_yield']
+
+print(f"The total yield from all crops in {sw_region} is {total_crop_yield}")
