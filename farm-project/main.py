@@ -125,3 +125,54 @@ for farm in data_json['farms']:
                 total_crop_yield += crop['daily_yield']
 
 print(f"The total yield from all crops in {sw_region} is {total_crop_yield}")
+
+print("--------------------")
+
+# Каква е общата дневна яйчна добивна способност на всички кокошки (value-то е Chickens) по всички ферми?
+
+total_eggs = 0
+
+for farm in data_json['farms']:
+    for animal in farm['animals']:
+        if animal['type'] == 'Chicken':
+            total_eggs += animal['daily_egg_yield']
+
+print(f'The total daily eggs yield from all farms is {total_eggs}')
+
+print("--------------------")
+
+# Кой животински вид има най-висок разход на храна на ден за всички ферми в региона “West”?
+
+w_region = 'West'
+ani_type = ''
+cow_feed_cost = 0
+pig_feed_cost = 0
+chicken_feed_cost = 0
+goat_feed_cost = 0
+
+for farm in data_json['farms']:
+    for animal in farm['animals']:
+
+        if animal['type'] == 'Chicken':
+            chicken_feed_cost += animal['feed_cost']
+
+        elif animal['type'] == 'Goat':
+            goat_feed_cost += animal['feed_cost']
+
+        elif animal['type'] == 'Pig':
+            pig_feed_cost += animal['feed_cost']
+
+        elif animal['type'] == 'Cow':
+            cow_feed_cost += animal['feed_cost']
+
+animals = [{'type': 'Chicken', 'feed_cost': chicken_feed_cost},
+           {'type': 'Goat', 'feed_cost': goat_feed_cost},
+           {'type': 'Pig', 'feed_cost': pig_feed_cost},
+           {'type': 'Cow', 'feed_cost': cow_feed_cost}]
+max_animal = max(animals, key=lambda x: x['feed_cost'])
+
+print(f"The animal with the highest feed cost in the {w_region} region is {max_animal['type']} with a feed cost of {max_animal['feed_cost']}")
+
+print("--------------------")
+
+
