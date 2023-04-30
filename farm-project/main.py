@@ -4,6 +4,7 @@ if __name__ == '__main__':
     f = open("./farm_data.json")
     data_json = json.load(f)
 
+    print("--------------------")
 
     # 1. Коя ферма има най-висока дневна млечна добивна способност?
 
@@ -22,38 +23,29 @@ if __name__ == '__main__':
     # 2. Кой животински вид има най-висока средна тегло по всички ферми?
     #TODO this needs to be fixed
 
-    animal_types = set()
-    for farm in data_json["farms"]:
-        for animal in farm["animals"]:
-            animal_types.add(animal["type"])
-
-
+    # calculate the average weight for each animal type
     animal_counts = {}
     animal_weights = {}
     for farm in data_json["farms"]:
         for animal in farm["animals"]:
             animal_type = animal["type"]
             weight = animal["average_weight"]
+            animal_counts[animal_type] = animal_counts.get(animal_type, 0) + 1
+            animal_weights[animal_type] = animal_weights.get(animal_type, 0) + weight
 
-            # !!! I don't understand this !!! #
-            if animal_type in animal_counts:
-                animal_counts[animal_type] += 1
-                animal_weights[animal_type] += weight
-            else:
-                animal_counts[animal_type] = 1
-                animal_weights[animal_type] = weight
+    average_weights = {animal_type: animal_weights[animal_type] / animal_counts[animal_type] for animal_type in
+                       animal_counts}
 
-    cowsAverageWeight = animal_weights["Cow"] / animal_counts["Cow"]
-    chickenAverageWeight = animal_weights["Chicken"] / animal_counts["Chicken"]
-    pigAverageWeight = animal_weights["Pig"] / animal_counts["Pig"]
-    goatAverageWeight = animal_weights["Goat"] / animal_counts["Goat"]
+    # find the animal type with the highest average weight using a lambda function
+    max_average_weight_animal_type = max(average_weights, key=lambda animal_type: average_weights[animal_type])
 
-    print("The cows average weight is ",cowsAverageWeight)
-    print("The chickens average weight is ",chickenAverageWeight)
-    print("The pigs average weight is ",pigAverageWeight)
-    print("The goats average weight is ",goatAverageWeight)
+    # print the animal type and its average weight
+    print("The animal with the highest average weight is", max_average_weight_animal_type, "with an average weight of",
+          average_weights[max_average_weight_animal_type])
 
     print("--------------------")
+
+
 
 # 3. Коя култура има най-висока дневна добивна способност на всички ферми?
     wheat_yield = 0
@@ -97,10 +89,15 @@ if __name__ == '__main__':
             else:
                 animal_type_feed_costs[animal_type].append(animal_cost_feed)
 
-    # Find the highest feed cost for each animal type and print the results
-    for animal_type, feed_costs in animal_type_feed_costs.items():
-        max_feed_cost = max(feed_costs)
-        print(f"The animal with the highest feed cost for {animal_type} is {max_feed_cost}.")
+    animal_type_max_feed_cost = [(animal_type, max(feed_costs)) for animal_type, feed_costs in animal_type_feed_costs.items()]
+
+    animal_type_max_feed_cost.sort(key=lambda x: x[1], reverse=True)
+
+    print(f"The animal with the highest feed cost is {animal_type_max_feed_cost[0][0]} with a cost of {animal_type_max_feed_cost[0][1]}.")
+
+    # for animal_type, feed_costs in animal_type_feed_costs.items():
+    #     max_feed_cost = max(feed_costs)
+    #     print(f"The animal with the highest feed cost for {animal_type} is {max_feed_cost}.")
 
     print("--------------------")
 

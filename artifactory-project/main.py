@@ -24,8 +24,10 @@ if __name__ == '__main__':
     f = open("./artifactory.json")
     data_json = json.load(f)
 
-    print(get_repos_by_type("npm"))
-    filtered_repos = get_repos_by_type("npm")
-    print(count_files_and_size_in_repos(filtered_repos))
+
+
+    # print(get_repos_by_type("npm"))
+    # filtered_repos = get_repos_by_type("npm")
+    # print(count_files_and_size_in_repos(filtered_repos))
 
 
