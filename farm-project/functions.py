@@ -14,4 +14,5 @@ def get_animal_by_type(type):
         return results
 
 if __name__ == '__main__':
-    get_animal_by_type('Cow')
+    answer = get_animal_by_type('Cow')
+    print(answer)
