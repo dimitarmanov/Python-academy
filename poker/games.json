@@ -1,0 +1,1652 @@
+[
+  {
+    "num_hands": 6,
+    "players": [
+      {
+        "name": "Eve",
+        "position": 1,
+        "perfect_move_percentage": 0.6666666666666666,
+        "win_count": 3,
+        "loss_count": 3
+      },
+      {
+        "name": "Grace",
+        "position": 2,
+        "perfect_move_percentage": 0.8333333333333334,
+        "win_count": 2,
+        "loss_count": 4
+      },
+      {
+        "name": "Dave",
+        "position": 3,
+        "perfect_move_percentage": 1.0,
+        "win_count": 1,
+        "loss_count": 5
+      },
+      {
+        "name": "Alice",
+        "position": 4,
+        "perfect_move_percentage": 1.0,
+        "win_count": 0,
+        "loss_count": 6
+      }
+    ]
+  },
+  {
+    "num_hands": 30,
+    "players": [
+      {
+        "name": "Bob",
+        "position": 1,
+        "perfect_move_percentage": 0.8666666666666667,
+        "win_count": 11,
+        "loss_count": 19
+      },
+      {
+        "name": "Frank",
+        "position": 2,
+        "perfect_move_percentage": 0.9333333333333333,
+        "win_count": 9,
+        "loss_count": 21
+      },
+      {
+        "name": "Grace",
+        "position": 3,
+        "perfect_move_percentage": 0.9,
+        "win_count": 7,
+        "loss_count": 23
+      },
+      {
+        "name": "Dave",
+        "position": 4,
+        "perfect_move_percentage": 0.9333333333333333,
+        "win_count": 3,
+        "loss_count": 27
+      }
+    ]
+  },
+  {
+    "num_hands": 10,
+    "players": [
+      {
+        "name": "Grace",
+        "position": 1,
+        "perfect_move_percentage": 1.0,
+        "win_count": 4,
+        "loss_count": 6
+      },
+      {
+        "name": "Eve",
+        "position": 2,
+        "perfect_move_percentage": 0.9,
+        "win_count": 3,
+        "loss_count": 7
+      },
+      {
+        "name": "Bob",
+        "position": 3,
+        "perfect_move_percentage": 0.9,
+        "win_count": 3,
+        "loss_count": 7
+      },
+      {
+        "name": "Charlie",
+        "position": 4,
+        "perfect_move_percentage": 1.0,
+        "win_count": 0,
+        "loss_count": 10
+      }
+    ]
+  },
+  {
+    "num_hands": 12,
+    "players": [
+      {
+        "name": "Alice",
+        "position": 1,
+        "perfect_move_percentage": 0.8333333333333334,
+        "win_count": 4,
+        "loss_count": 8
+      },
+      {
+        "name": "Grace",
+        "position": 2,
+        "perfect_move_percentage": 1.0,
+        "win_count": 4,
+        "loss_count": 8
+      },
+      {
+        "name": "Frank",
+        "position": 3,
+        "perfect_move_percentage": 0.75,
+        "win_count": 3,
+        "loss_count": 9
+      },
+      {
+        "name": "Dave",
+        "position": 4,
+        "perfect_move_percentage": 0.9166666666666666,
+        "win_count": 1,
+        "loss_count": 11
+      }
+    ]
+  },
+  {
+    "num_hands": 24,
+    "players": [
+      {
+        "name": "Frank",
+        "position": 1,
+        "perfect_move_percentage": 0.9166666666666666,
+        "win_count": 7,
+        "loss_count": 17
+      },
+      {
+        "name": "Bob",
+        "position": 2,
+        "perfect_move_percentage": 0.9583333333333334,
+        "win_count": 6,
+        "loss_count": 18
+      },
+      {
+        "name": "Alice",
+        "position": 3,
+        "perfect_move_percentage": 0.875,
+        "win_count": 6,
+        "loss_count": 18
+      },
+      {
+        "name": "Harry",
+        "position": 4,
+        "perfect_move_percentage": 0.75,
+        "win_count": 5,
+        "loss_count": 19
+      }
+    ]
+  },
+  {
+    "num_hands": 22,
+    "players": [
+      {
+        "name": "Alice",
+        "position": 1,
+        "perfect_move_percentage": 0.8636363636363636,
+        "win_count": 11,
+        "loss_count": 11
+      },
+      {
+        "name": "Frank",
+        "position": 2,
+        "perfect_move_percentage": 0.8636363636363636,
+        "win_count": 5,
+        "loss_count": 17
+      },
+      {
+        "name": "Harry",
+        "position": 3,
+        "perfect_move_percentage": 0.9090909090909091,
+        "win_count": 4,
+        "loss_count": 18
+      },
+      {
+        "name": "Grace",
+        "position": 4,
+        "perfect_move_percentage": 1.0,
+        "win_count": 2,
+        "loss_count": 20
+      }
+    ]
+  },
+  {
+    "num_hands": 6,
+    "players": [
+      {
+        "name": "Eve",
+        "position": 1,
+        "perfect_move_percentage": 1.0,
+        "win_count": 3,
+        "loss_count": 3
+      },
+      {
+        "name": "Charlie",
+        "position": 2,
+        "perfect_move_percentage": 1.0,
+        "win_count": 1,
+        "loss_count": 5
+      },
+      {
+        "name": "Alice",
+        "position": 3,
+        "perfect_move_percentage": 0.6666666666666666,
+        "win_count": 1,
+        "loss_count": 5
+      },
+      {
+        "name": "Frank",
+        "position": 4,
+        "perfect_move_percentage": 0.8333333333333334,
+        "win_count": 1,
+        "loss_count": 5
+      }
+    ]
+  },
+  {
+    "num_hands": 6,
+    "players": [
+      {
+        "name": "Charlie",
+        "position": 1,
+        "perfect_move_percentage": 0.8333333333333334,
+        "win_count": 3,
+        "loss_count": 3
+      },
+      {
+        "name": "Bob",
+        "position": 2,
+        "perfect_move_percentage": 0.6666666666666666,
+        "win_count": 2,
+        "loss_count": 4
+      },
+      {
+        "name": "Alice",
+        "position": 3,
+        "perfect_move_percentage": 0.6666666666666666,
+        "win_count": 1,
+        "loss_count": 5
+      },
+      {
+        "name": "Grace",
+        "position": 4,
+        "perfect_move_percentage": 1.0,
+        "win_count": 0,
+        "loss_count": 6
+      }
+    ]
+  },
+  {
+    "num_hands": 17,
+    "players": [
+      {
+        "name": "Charlie",
+        "position": 1,
+        "perfect_move_percentage": 0.7058823529411765,
+        "win_count": 8,
+        "loss_count": 9
+      },
+      {
+        "name": "Alice",
+        "position": 2,
+        "perfect_move_percentage": 1.0,
+        "win_count": 4,
+        "loss_count": 13
+      },
+      {
+        "name": "Eve",
+        "position": 3,
+        "perfect_move_percentage": 0.8235294117647058,
+        "win_count": 3,
+        "loss_count": 14
+      },
+      {
+        "name": "Grace",
+        "position": 4,
+        "perfect_move_percentage": 1.0,
+        "win_count": 2,
+        "loss_count": 15
+      }
+    ]
+  },
+  {
+    "num_hands": 18,
+    "players": [
+      {
+        "name": "Dave",
+        "position": 1,
+        "perfect_move_percentage": 1.0,
+        "win_count": 7,
+        "loss_count": 11
+      },
+      {
+        "name": "Harry",
+        "position": 2,
+        "perfect_move_percentage": 0.7777777777777778,
+        "win_count": 4,
+        "loss_count": 14
+      },
+      {
+        "name": "Charlie",
+        "position": 3,
+        "perfect_move_percentage": 0.9444444444444444,
+        "win_count": 4,
+        "loss_count": 14
+      },
+      {
+        "name": "Bob",
+        "position": 4,
+        "perfect_move_percentage": 0.8888888888888888,
+        "win_count": 3,
+        "loss_count": 15
+      }
+    ]
+  },
+  {
+    "num_hands": 28,
+    "players": [
+      {
+        "name": "Harry",
+        "position": 1,
+        "perfect_move_percentage": 0.8928571428571429,
+        "win_count": 9,
+        "loss_count": 19
+      },
+      {
+        "name": "Grace",
+        "position": 2,
+        "perfect_move_percentage": 0.8571428571428571,
+        "win_count": 8,
+        "loss_count": 20
+      },
+      {
+        "name": "Charlie",
+        "position": 3,
+        "perfect_move_percentage": 0.9642857142857143,
+        "win_count": 7,
+        "loss_count": 21
+      },
+      {
+        "name": "Alice",
+        "position": 4,
+        "perfect_move_percentage": 0.8928571428571429,
+        "win_count": 4,
+        "loss_count": 24
+      }
+    ]
+  },
+  {
+    "num_hands": 27,
+    "players": [
+      {
+        "name": "Dave",
+        "position": 1,
+        "perfect_move_percentage": 0.8518518518518519,
+        "win_count": 9,
+        "loss_count": 18
+      },
+      {
+        "name": "Charlie",
+        "position": 2,
+        "perfect_move_percentage": 0.8888888888888888,
+        "win_count": 7,
+        "loss_count": 20
+      },
+      {
+        "name": "Grace",
+        "position": 3,
+        "perfect_move_percentage": 0.9629629629629629,
+        "win_count": 6,
+        "loss_count": 21
+      },
+      {
+        "name": "Frank",
+        "position": 4,
+        "perfect_move_percentage": 0.8518518518518519,
+        "win_count": 5,
+        "loss_count": 22
+      }
+    ]
+  },
+  {
+    "num_hands": 8,
+    "players": [
+      {
+        "name": "Grace",
+        "position": 1,
+        "perfect_move_percentage": 0.875,
+        "win_count": 3,
+        "loss_count": 5
+      },
+      {
+        "name": "Harry",
+        "position": 2,
+        "perfect_move_percentage": 0.625,
+        "win_count": 2,
+        "loss_count": 6
+      },
+      {
+        "name": "Eve",
+        "position": 3,
+        "perfect_move_percentage": 1.0,
+        "win_count": 2,
+        "loss_count": 6
+      },
+      {
+        "name": "Bob",
+        "position": 4,
+        "perfect_move_percentage": 1.0,
+        "win_count": 1,
+        "loss_count": 7
+      }
+    ]
+  },
+  {
+    "num_hands": 12,
+    "players": [
+      {
+        "name": "Bob",
+        "position": 1,
+        "perfect_move_percentage": 0.8333333333333334,
+        "win_count": 6,
+        "loss_count": 6
+      },
+      {
+        "name": "Harry",
+        "position": 2,
+        "perfect_move_percentage": 0.6666666666666666,
+        "win_count": 3,
+        "loss_count": 9
+      },
+      {
+        "name": "Alice",
+        "position": 3,
+        "perfect_move_percentage": 0.8333333333333334,
+        "win_count": 2,
+        "loss_count": 10
+      },
+      {
+        "name": "Dave",
+        "position": 4,
+        "perfect_move_percentage": 0.8333333333333334,
+        "win_count": 1,
+        "loss_count": 11
+      }
+    ]
+  },
+  {
+    "num_hands": 24,
+    "players": [
+      {
+        "name": "Charlie",
+        "position": 1,
+        "perfect_move_percentage": 0.9583333333333334,
+        "win_count": 9,
+        "loss_count": 15
+      },
+      {
+        "name": "Frank",
+        "position": 2,
+        "perfect_move_percentage": 0.875,
+        "win_count": 5,
+        "loss_count": 19
+      },
+      {
+        "name": "Dave",
+        "position": 3,
+        "perfect_move_percentage": 0.9166666666666666,
+        "win_count": 5,
+        "loss_count": 19
+      },
+      {
+        "name": "Grace",
+        "position": 4,
+        "perfect_move_percentage": 0.8333333333333334,
+        "win_count": 5,
+        "loss_count": 19
+      }
+    ]
+  },
+  {
+    "num_hands": 26,
+    "players": [
+      {
+        "name": "Dave",
+        "position": 1,
+        "perfect_move_percentage": 0.8846153846153846,
+        "win_count": 9,
+        "loss_count": 17
+      },
+      {
+        "name": "Grace",
+        "position": 2,
+        "perfect_move_percentage": 0.9615384615384616,
+        "win_count": 9,
+        "loss_count": 17
+      },
+      {
+        "name": "Harry",
+        "position": 3,
+        "perfect_move_percentage": 0.9230769230769231,
+        "win_count": 5,
+        "loss_count": 21
+      },
+      {
+        "name": "Alice",
+        "position": 4,
+        "perfect_move_percentage": 0.9615384615384616,
+        "win_count": 3,
+        "loss_count": 23
+      }
+    ]
+  },
+  {
+    "num_hands": 24,
+    "players": [
+      {
+        "name": "Grace",
+        "position": 1,
+        "perfect_move_percentage": 0.8333333333333334,
+        "win_count": 10,
+        "loss_count": 14
+      },
+      {
+        "name": "Frank",
+        "position": 2,
+        "perfect_move_percentage": 0.9166666666666666,
+        "win_count": 6,
+        "loss_count": 18
+      },
+      {
+        "name": "Alice",
+        "position": 3,
+        "perfect_move_percentage": 0.75,
+        "win_count": 4,
+        "loss_count": 20
+      },
+      {
+        "name": "Harry",
+        "position": 4,
+        "perfect_move_percentage": 0.8333333333333334,
+        "win_count": 4,
+        "loss_count": 20
+      }
+    ]
+  },
+  {
+    "num_hands": 5,
+    "players": [
+      {
+        "name": "Dave",
+        "position": 1,
+        "perfect_move_percentage": 1.0,
+        "win_count": 2,
+        "loss_count": 3
+      },
+      {
+        "name": "Grace",
+        "position": 2,
+        "perfect_move_percentage": 1.0,
+        "win_count": 2,
+        "loss_count": 3
+      },
+      {
+        "name": "Alice",
+        "position": 3,
+        "perfect_move_percentage": 0.8,
+        "win_count": 1,
+        "loss_count": 4
+      },
+      {
+        "name": "Bob",
+        "position": 4,
+        "perfect_move_percentage": 0.8,
+        "win_count": 0,
+        "loss_count": 5
+      }
+    ]
+  },
+  {
+    "num_hands": 21,
+    "players": [
+      {
+        "name": "Eve",
+        "position": 1,
+        "perfect_move_percentage": 0.9523809523809523,
+        "win_count": 7,
+        "loss_count": 14
+      },
+      {
+        "name": "Grace",
+        "position": 2,
+        "perfect_move_percentage": 0.9047619047619048,
+        "win_count": 6,
+        "loss_count": 15
+      },
+      {
+        "name": "Bob",
+        "position": 3,
+        "perfect_move_percentage": 1.0,
+        "win_count": 6,
+        "loss_count": 15
+      },
+      {
+        "name": "Dave",
+        "position": 4,
+        "perfect_move_percentage": 0.9523809523809523,
+        "win_count": 2,
+        "loss_count": 19
+      }
+    ]
+  },
+  {
+    "num_hands": 8,
+    "players": [
+      {
+        "name": "Dave",
+        "position": 1,
+        "perfect_move_percentage": 0.75,
+        "win_count": 4,
+        "loss_count": 4
+      },
+      {
+        "name": "Frank",
+        "position": 2,
+        "perfect_move_percentage": 0.75,
+        "win_count": 2,
+        "loss_count": 6
+      },
+      {
+        "name": "Harry",
+        "position": 3,
+        "perfect_move_percentage": 0.875,
+        "win_count": 1,
+        "loss_count": 7
+      },
+      {
+        "name": "Eve",
+        "position": 4,
+        "perfect_move_percentage": 1.0,
+        "win_count": 1,
+        "loss_count": 7
+      }
+    ]
+  },
+  {
+    "num_hands": 23,
+    "players": [
+      {
+        "name": "Grace",
+        "position": 1,
+        "perfect_move_percentage": 0.8260869565217391,
+        "win_count": 10,
+        "loss_count": 13
+      },
+      {
+        "name": "Harry",
+        "position": 2,
+        "perfect_move_percentage": 0.9130434782608695,
+        "win_count": 7,
+        "loss_count": 16
+      },
+      {
+        "name": "Eve",
+        "position": 3,
+        "perfect_move_percentage": 0.9565217391304348,
+        "win_count": 3,
+        "loss_count": 20
+      },
+      {
+        "name": "Charlie",
+        "position": 4,
+        "perfect_move_percentage": 0.9130434782608695,
+        "win_count": 3,
+        "loss_count": 20
+      }
+    ]
+  },
+  {
+    "num_hands": 19,
+    "players": [
+      {
+        "name": "Frank",
+        "position": 1,
+        "perfect_move_percentage": 0.8947368421052632,
+        "win_count": 7,
+        "loss_count": 12
+      },
+      {
+        "name": "Alice",
+        "position": 2,
+        "perfect_move_percentage": 0.8947368421052632,
+        "win_count": 6,
+        "loss_count": 13
+      },
+      {
+        "name": "Bob",
+        "position": 3,
+        "perfect_move_percentage": 0.9473684210526315,
+        "win_count": 4,
+        "loss_count": 15
+      },
+      {
+        "name": "Harry",
+        "position": 4,
+        "perfect_move_percentage": 0.8947368421052632,
+        "win_count": 2,
+        "loss_count": 17
+      }
+    ]
+  },
+  {
+    "num_hands": 6,
+    "players": [
+      {
+        "name": "Dave",
+        "position": 1,
+        "perfect_move_percentage": 0.8333333333333334,
+        "win_count": 3,
+        "loss_count": 3
+      },
+      {
+        "name": "Grace",
+        "position": 2,
+        "perfect_move_percentage": 0.8333333333333334,
+        "win_count": 2,
+        "loss_count": 4
+      },
+      {
+        "name": "Charlie",
+        "position": 3,
+        "perfect_move_percentage": 1.0,
+        "win_count": 1,
+        "loss_count": 5
+      },
+      {
+        "name": "Eve",
+        "position": 4,
+        "perfect_move_percentage": 0.8333333333333334,
+        "win_count": 0,
+        "loss_count": 6
+      }
+    ]
+  },
+  {
+    "num_hands": 12,
+    "players": [
+      {
+        "name": "Alice",
+        "position": 1,
+        "perfect_move_percentage": 0.9166666666666666,
+        "win_count": 5,
+        "loss_count": 7
+      },
+      {
+        "name": "Bob",
+        "position": 2,
+        "perfect_move_percentage": 0.9166666666666666,
+        "win_count": 3,
+        "loss_count": 9
+      },
+      {
+        "name": "Grace",
+        "position": 3,
+        "perfect_move_percentage": 0.75,
+        "win_count": 2,
+        "loss_count": 10
+      },
+      {
+        "name": "Eve",
+        "position": 4,
+        "perfect_move_percentage": 0.9166666666666666,
+        "win_count": 2,
+        "loss_count": 10
+      }
+    ]
+  },
+  {
+    "num_hands": 7,
+    "players": [
+      {
+        "name": "Grace",
+        "position": 1,
+        "perfect_move_percentage": 1.0,
+        "win_count": 4,
+        "loss_count": 3
+      },
+      {
+        "name": "Dave",
+        "position": 2,
+        "perfect_move_percentage": 1.0,
+        "win_count": 1,
+        "loss_count": 6
+      },
+      {
+        "name": "Harry",
+        "position": 3,
+        "perfect_move_percentage": 0.8571428571428571,
+        "win_count": 1,
+        "loss_count": 6
+      },
+      {
+        "name": "Bob",
+        "position": 4,
+        "perfect_move_percentage": 1.0,
+        "win_count": 1,
+        "loss_count": 6
+      }
+    ]
+  },
+  {
+    "num_hands": 19,
+    "players": [
+      {
+        "name": "Grace",
+        "position": 1,
+        "perfect_move_percentage": 0.7894736842105263,
+        "win_count": 7,
+        "loss_count": 12
+      },
+      {
+        "name": "Harry",
+        "position": 2,
+        "perfect_move_percentage": 0.9473684210526315,
+        "win_count": 7,
+        "loss_count": 12
+      },
+      {
+        "name": "Eve",
+        "position": 3,
+        "perfect_move_percentage": 0.8947368421052632,
+        "win_count": 3,
+        "loss_count": 16
+      },
+      {
+        "name": "Frank",
+        "position": 4,
+        "perfect_move_percentage": 0.9473684210526315,
+        "win_count": 2,
+        "loss_count": 17
+      }
+    ]
+  },
+  {
+    "num_hands": 25,
+    "players": [
+      {
+        "name": "Eve",
+        "position": 1,
+        "perfect_move_percentage": 0.72,
+        "win_count": 8,
+        "loss_count": 17
+      },
+      {
+        "name": "Dave",
+        "position": 2,
+        "perfect_move_percentage": 0.88,
+        "win_count": 7,
+        "loss_count": 18
+      },
+      {
+        "name": "Alice",
+        "position": 3,
+        "perfect_move_percentage": 0.96,
+        "win_count": 6,
+        "loss_count": 19
+      },
+      {
+        "name": "Charlie",
+        "position": 4,
+        "perfect_move_percentage": 0.92,
+        "win_count": 4,
+        "loss_count": 21
+      }
+    ]
+  },
+  {
+    "num_hands": 19,
+    "players": [
+      {
+        "name": "Frank",
+        "position": 1,
+        "perfect_move_percentage": 0.9473684210526315,
+        "win_count": 7,
+        "loss_count": 12
+      },
+      {
+        "name": "Alice",
+        "position": 2,
+        "perfect_move_percentage": 1.0,
+        "win_count": 5,
+        "loss_count": 14
+      },
+      {
+        "name": "Harry",
+        "position": 3,
+        "perfect_move_percentage": 1.0,
+        "win_count": 4,
+        "loss_count": 15
+      },
+      {
+        "name": "Bob",
+        "position": 4,
+        "perfect_move_percentage": 0.9473684210526315,
+        "win_count": 3,
+        "loss_count": 16
+      }
+    ]
+  },
+  {
+    "num_hands": 30,
+    "players": [
+      {
+        "name": "Harry",
+        "position": 1,
+        "perfect_move_percentage": 0.9,
+        "win_count": 10,
+        "loss_count": 20
+      },
+      {
+        "name": "Frank",
+        "position": 2,
+        "perfect_move_percentage": 0.8333333333333334,
+        "win_count": 9,
+        "loss_count": 21
+      },
+      {
+        "name": "Alice",
+        "position": 3,
+        "perfect_move_percentage": 0.9666666666666667,
+        "win_count": 8,
+        "loss_count": 22
+      },
+      {
+        "name": "Dave",
+        "position": 4,
+        "perfect_move_percentage": 0.8666666666666667,
+        "win_count": 3,
+        "loss_count": 27
+      }
+    ]
+  },
+  {
+    "num_hands": 22,
+    "players": [
+      {
+        "name": "Bob",
+        "position": 1,
+        "perfect_move_percentage": 1.0,
+        "win_count": 8,
+        "loss_count": 14
+      },
+      {
+        "name": "Alice",
+        "position": 2,
+        "perfect_move_percentage": 0.8181818181818182,
+        "win_count": 7,
+        "loss_count": 15
+      },
+      {
+        "name": "Harry",
+        "position": 3,
+        "perfect_move_percentage": 0.9545454545454546,
+        "win_count": 4,
+        "loss_count": 18
+      },
+      {
+        "name": "Charlie",
+        "position": 4,
+        "perfect_move_percentage": 0.6363636363636364,
+        "win_count": 3,
+        "loss_count": 19
+      }
+    ]
+  },
+  {
+    "num_hands": 19,
+    "players": [
+      {
+        "name": "Charlie",
+        "position": 1,
+        "perfect_move_percentage": 0.8947368421052632,
+        "win_count": 6,
+        "loss_count": 13
+      },
+      {
+        "name": "Eve",
+        "position": 2,
+        "perfect_move_percentage": 0.8421052631578947,
+        "win_count": 6,
+        "loss_count": 13
+      },
+      {
+        "name": "Frank",
+        "position": 3,
+        "perfect_move_percentage": 0.8947368421052632,
+        "win_count": 4,
+        "loss_count": 15
+      },
+      {
+        "name": "Grace",
+        "position": 4,
+        "perfect_move_percentage": 0.9473684210526315,
+        "win_count": 3,
+        "loss_count": 16
+      }
+    ]
+  },
+  {
+    "num_hands": 12,
+    "players": [
+      {
+        "name": "Bob",
+        "position": 1,
+        "perfect_move_percentage": 0.8333333333333334,
+        "win_count": 6,
+        "loss_count": 6
+      },
+      {
+        "name": "Alice",
+        "position": 2,
+        "perfect_move_percentage": 0.9166666666666666,
+        "win_count": 3,
+        "loss_count": 9
+      },
+      {
+        "name": "Frank",
+        "position": 3,
+        "perfect_move_percentage": 1.0,
+        "win_count": 2,
+        "loss_count": 10
+      },
+      {
+        "name": "Grace",
+        "position": 4,
+        "perfect_move_percentage": 0.8333333333333334,
+        "win_count": 1,
+        "loss_count": 11
+      }
+    ]
+  },
+  {
+    "num_hands": 25,
+    "players": [
+      {
+        "name": "Charlie",
+        "position": 1,
+        "perfect_move_percentage": 0.84,
+        "win_count": 9,
+        "loss_count": 16
+      },
+      {
+        "name": "Alice",
+        "position": 2,
+        "perfect_move_percentage": 0.88,
+        "win_count": 7,
+        "loss_count": 18
+      },
+      {
+        "name": "Frank",
+        "position": 3,
+        "perfect_move_percentage": 0.96,
+        "win_count": 6,
+        "loss_count": 19
+      },
+      {
+        "name": "Bob",
+        "position": 4,
+        "perfect_move_percentage": 0.88,
+        "win_count": 3,
+        "loss_count": 22
+      }
+    ]
+  },
+  {
+    "num_hands": 21,
+    "players": [
+      {
+        "name": "Harry",
+        "position": 1,
+        "perfect_move_percentage": 0.9047619047619048,
+        "win_count": 7,
+        "loss_count": 14
+      },
+      {
+        "name": "Alice",
+        "position": 2,
+        "perfect_move_percentage": 0.7142857142857143,
+        "win_count": 5,
+        "loss_count": 16
+      },
+      {
+        "name": "Dave",
+        "position": 3,
+        "perfect_move_percentage": 0.9523809523809523,
+        "win_count": 5,
+        "loss_count": 16
+      },
+      {
+        "name": "Grace",
+        "position": 4,
+        "perfect_move_percentage": 0.8571428571428571,
+        "win_count": 4,
+        "loss_count": 17
+      }
+    ]
+  },
+  {
+    "num_hands": 25,
+    "players": [
+      {
+        "name": "Eve",
+        "position": 1,
+        "perfect_move_percentage": 0.96,
+        "win_count": 8,
+        "loss_count": 17
+      },
+      {
+        "name": "Harry",
+        "position": 2,
+        "perfect_move_percentage": 0.76,
+        "win_count": 7,
+        "loss_count": 18
+      },
+      {
+        "name": "Grace",
+        "position": 3,
+        "perfect_move_percentage": 0.88,
+        "win_count": 5,
+        "loss_count": 20
+      },
+      {
+        "name": "Dave",
+        "position": 4,
+        "perfect_move_percentage": 0.88,
+        "win_count": 5,
+        "loss_count": 20
+      }
+    ]
+  },
+  {
+    "num_hands": 12,
+    "players": [
+      {
+        "name": "Bob",
+        "position": 1,
+        "perfect_move_percentage": 0.9166666666666666,
+        "win_count": 4,
+        "loss_count": 8
+      },
+      {
+        "name": "Dave",
+        "position": 2,
+        "perfect_move_percentage": 0.8333333333333334,
+        "win_count": 4,
+        "loss_count": 8
+      },
+      {
+        "name": "Charlie",
+        "position": 3,
+        "perfect_move_percentage": 0.8333333333333334,
+        "win_count": 2,
+        "loss_count": 10
+      },
+      {
+        "name": "Alice",
+        "position": 4,
+        "perfect_move_percentage": 1.0,
+        "win_count": 2,
+        "loss_count": 10
+      }
+    ]
+  },
+  {
+    "num_hands": 13,
+    "players": [
+      {
+        "name": "Grace",
+        "position": 1,
+        "perfect_move_percentage": 0.8461538461538461,
+        "win_count": 5,
+        "loss_count": 8
+      },
+      {
+        "name": "Bob",
+        "position": 2,
+        "perfect_move_percentage": 0.9230769230769231,
+        "win_count": 4,
+        "loss_count": 9
+      },
+      {
+        "name": "Harry",
+        "position": 3,
+        "perfect_move_percentage": 0.7692307692307693,
+        "win_count": 3,
+        "loss_count": 10
+      },
+      {
+        "name": "Eve",
+        "position": 4,
+        "perfect_move_percentage": 0.9230769230769231,
+        "win_count": 1,
+        "loss_count": 12
+      }
+    ]
+  },
+  {
+    "num_hands": 7,
+    "players": [
+      {
+        "name": "Grace",
+        "position": 1,
+        "perfect_move_percentage": 0.8571428571428571,
+        "win_count": 3,
+        "loss_count": 4
+      },
+      {
+        "name": "Harry",
+        "position": 2,
+        "perfect_move_percentage": 1.0,
+        "win_count": 3,
+        "loss_count": 4
+      },
+      {
+        "name": "Frank",
+        "position": 3,
+        "perfect_move_percentage": 0.7142857142857143,
+        "win_count": 1,
+        "loss_count": 6
+      },
+      {
+        "name": "Alice",
+        "position": 4,
+        "perfect_move_percentage": 1.0,
+        "win_count": 0,
+        "loss_count": 7
+      }
+    ]
+  },
+  {
+    "num_hands": 8,
+    "players": [
+      {
+        "name": "Bob",
+        "position": 1,
+        "perfect_move_percentage": 0.875,
+        "win_count": 3,
+        "loss_count": 5
+      },
+      {
+        "name": "Alice",
+        "position": 2,
+        "perfect_move_percentage": 0.875,
+        "win_count": 3,
+        "loss_count": 5
+      },
+      {
+        "name": "Eve",
+        "position": 3,
+        "perfect_move_percentage": 1.0,
+        "win_count": 2,
+        "loss_count": 6
+      },
+      {
+        "name": "Frank",
+        "position": 4,
+        "perfect_move_percentage": 0.75,
+        "win_count": 0,
+        "loss_count": 8
+      }
+    ]
+  },
+  {
+    "num_hands": 18,
+    "players": [
+      {
+        "name": "Alice",
+        "position": 1,
+        "perfect_move_percentage": 0.7777777777777778,
+        "win_count": 5,
+        "loss_count": 13
+      },
+      {
+        "name": "Harry",
+        "position": 2,
+        "perfect_move_percentage": 0.8888888888888888,
+        "win_count": 5,
+        "loss_count": 13
+      },
+      {
+        "name": "Grace",
+        "position": 3,
+        "perfect_move_percentage": 0.8333333333333334,
+        "win_count": 4,
+        "loss_count": 14
+      },
+      {
+        "name": "Bob",
+        "position": 4,
+        "perfect_move_percentage": 0.9444444444444444,
+        "win_count": 4,
+        "loss_count": 14
+      }
+    ]
+  },
+  {
+    "num_hands": 17,
+    "players": [
+      {
+        "name": "Dave",
+        "position": 1,
+        "perfect_move_percentage": 0.8823529411764706,
+        "win_count": 6,
+        "loss_count": 11
+      },
+      {
+        "name": "Charlie",
+        "position": 2,
+        "perfect_move_percentage": 1.0,
+        "win_count": 4,
+        "loss_count": 13
+      },
+      {
+        "name": "Frank",
+        "position": 3,
+        "perfect_move_percentage": 0.9411764705882353,
+        "win_count": 4,
+        "loss_count": 13
+      },
+      {
+        "name": "Grace",
+        "position": 4,
+        "perfect_move_percentage": 0.8823529411764706,
+        "win_count": 3,
+        "loss_count": 14
+      }
+    ]
+  },
+  {
+    "num_hands": 11,
+    "players": [
+      {
+        "name": "Alice",
+        "position": 1,
+        "perfect_move_percentage": 0.9090909090909091,
+        "win_count": 4,
+        "loss_count": 7
+      },
+      {
+        "name": "Frank",
+        "position": 2,
+        "perfect_move_percentage": 0.8181818181818182,
+        "win_count": 4,
+        "loss_count": 7
+      },
+      {
+        "name": "Eve",
+        "position": 3,
+        "perfect_move_percentage": 0.9090909090909091,
+        "win_count": 2,
+        "loss_count": 9
+      },
+      {
+        "name": "Dave",
+        "position": 4,
+        "perfect_move_percentage": 1.0,
+        "win_count": 1,
+        "loss_count": 10
+      }
+    ]
+  },
+  {
+    "num_hands": 22,
+    "players": [
+      {
+        "name": "Harry",
+        "position": 1,
+        "perfect_move_percentage": 0.8636363636363636,
+        "win_count": 8,
+        "loss_count": 14
+      },
+      {
+        "name": "Charlie",
+        "position": 2,
+        "perfect_move_percentage": 0.8181818181818182,
+        "win_count": 6,
+        "loss_count": 16
+      },
+      {
+        "name": "Grace",
+        "position": 3,
+        "perfect_move_percentage": 0.9090909090909091,
+        "win_count": 4,
+        "loss_count": 18
+      },
+      {
+        "name": "Frank",
+        "position": 4,
+        "perfect_move_percentage": 0.9545454545454546,
+        "win_count": 4,
+        "loss_count": 18
+      }
+    ]
+  },
+  {
+    "num_hands": 9,
+    "players": [
+      {
+        "name": "Bob",
+        "position": 1,
+        "perfect_move_percentage": 0.8888888888888888,
+        "win_count": 5,
+        "loss_count": 4
+      },
+      {
+        "name": "Grace",
+        "position": 2,
+        "perfect_move_percentage": 0.8888888888888888,
+        "win_count": 2,
+        "loss_count": 7
+      },
+      {
+        "name": "Alice",
+        "position": 3,
+        "perfect_move_percentage": 1.0,
+        "win_count": 2,
+        "loss_count": 7
+      },
+      {
+        "name": "Dave",
+        "position": 4,
+        "perfect_move_percentage": 0.7777777777777778,
+        "win_count": 0,
+        "loss_count": 9
+      }
+    ]
+  },
+  {
+    "num_hands": 15,
+    "players": [
+      {
+        "name": "Harry",
+        "position": 1,
+        "perfect_move_percentage": 0.9333333333333333,
+        "win_count": 7,
+        "loss_count": 8
+      },
+      {
+        "name": "Frank",
+        "position": 2,
+        "perfect_move_percentage": 0.8666666666666667,
+        "win_count": 4,
+        "loss_count": 11
+      },
+      {
+        "name": "Eve",
+        "position": 3,
+        "perfect_move_percentage": 0.9333333333333333,
+        "win_count": 4,
+        "loss_count": 11
+      },
+      {
+        "name": "Grace",
+        "position": 4,
+        "perfect_move_percentage": 0.8666666666666667,
+        "win_count": 0,
+        "loss_count": 15
+      }
+    ]
+  },
+  {
+    "num_hands": 24,
+    "players": [
+      {
+        "name": "Charlie",
+        "position": 1,
+        "perfect_move_percentage": 0.9166666666666666,
+        "win_count": 12,
+        "loss_count": 12
+      },
+      {
+        "name": "Grace",
+        "position": 2,
+        "perfect_move_percentage": 0.7916666666666666,
+        "win_count": 6,
+        "loss_count": 18
+      },
+      {
+        "name": "Alice",
+        "position": 3,
+        "perfect_move_percentage": 0.8333333333333334,
+        "win_count": 4,
+        "loss_count": 20
+      },
+      {
+        "name": "Eve",
+        "position": 4,
+        "perfect_move_percentage": 1.0,
+        "win_count": 2,
+        "loss_count": 22
+      }
+    ]
+  },
+  {
+    "num_hands": 5,
+    "players": [
+      {
+        "name": "Eve",
+        "position": 1,
+        "perfect_move_percentage": 0.8,
+        "win_count": 3,
+        "loss_count": 2
+      },
+      {
+        "name": "Dave",
+        "position": 2,
+        "perfect_move_percentage": 0.6,
+        "win_count": 1,
+        "loss_count": 4
+      },
+      {
+        "name": "Alice",
+        "position": 3,
+        "perfect_move_percentage": 1.0,
+        "win_count": 1,
+        "loss_count": 4
+      },
+      {
+        "name": "Charlie",
+        "position": 4,
+        "perfect_move_percentage": 0.8,
+        "win_count": 0,
+        "loss_count": 5
+      }
+    ]
+  },
+  {
+    "num_hands": 16,
+    "players": [
+      {
+        "name": "Dave",
+        "position": 1,
+        "perfect_move_percentage": 0.9375,
+        "win_count": 7,
+        "loss_count": 9
+      },
+      {
+        "name": "Harry",
+        "position": 2,
+        "perfect_move_percentage": 0.875,
+        "win_count": 5,
+        "loss_count": 11
+      },
+      {
+        "name": "Eve",
+        "position": 3,
+        "perfect_move_percentage": 0.9375,
+        "win_count": 3,
+        "loss_count": 13
+      },
+      {
+        "name": "Bob",
+        "position": 4,
+        "perfect_move_percentage": 1.0,
+        "win_count": 1,
+        "loss_count": 15
+      }
+    ]
+  },
+  {
+    "num_hands": 20,
+    "players": [
+      {
+        "name": "Charlie",
+        "position": 1,
+        "perfect_move_percentage": 0.95,
+        "win_count": 8,
+        "loss_count": 12
+      },
+      {
+        "name": "Harry",
+        "position": 2,
+        "perfect_move_percentage": 0.85,
+        "win_count": 7,
+        "loss_count": 13
+      },
+      {
+        "name": "Frank",
+        "position": 3,
+        "perfect_move_percentage": 0.95,
+        "win_count": 3,
+        "loss_count": 17
+      },
+      {
+        "name": "Bob",
+        "position": 4,
+        "perfect_move_percentage": 0.9,
+        "win_count": 2,
+        "loss_count": 18
+      }
+    ]
+  },
+  {
+    "num_hands": 30,
+    "players": [
+      {
+        "name": "Eve",
+        "position": 1,
+        "perfect_move_percentage": 0.9,
+        "win_count": 9,
+        "loss_count": 21
+      },
+      {
+        "name": "Bob",
+        "position": 2,
+        "perfect_move_percentage": 0.8666666666666667,
+        "win_count": 8,
+        "loss_count": 22
+      },
+      {
+        "name": "Grace",
+        "position": 3,
+        "perfect_move_percentage": 0.9333333333333333,
+        "win_count": 7,
+        "loss_count": 23
+      },
+      {
+        "name": "Dave",
+        "position": 4,
+        "perfect_move_percentage": 0.8666666666666667,
+        "win_count": 6,
+        "loss_count": 24
+      }
+    ]
+  }
+]

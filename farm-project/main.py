@@ -21,9 +21,7 @@ if __name__ == '__main__':
     print("--------------------")
 
     # 2. Кой животински вид има най-висока средна тегло по всички ферми?
-    #TODO this needs to be fixed
 
-    # calculate the average weight for each animal type
     animal_counts = {}
     animal_weights = {}
     for farm in data_json["farms"]:
@@ -36,10 +34,8 @@ if __name__ == '__main__':
     average_weights = {animal_type: animal_weights[animal_type] / animal_counts[animal_type] for animal_type in
                        animal_counts}
 
-    # find the animal type with the highest average weight using a lambda function
     max_average_weight_animal_type = max(average_weights, key=lambda animal_type: average_weights[animal_type])
 
-    # print the animal type and its average weight
     print("The animal with the highest average weight is", max_average_weight_animal_type, "with an average weight of",
           average_weights[max_average_weight_animal_type])
 
@@ -76,7 +72,7 @@ if __name__ == '__main__':
 
 
     ## 4. Кой животински вид има най-висок разход на храна на ден?]
-    #TODO This needs to be fixed
+
     animal_type_feed_costs = {}
 
     for obj in data_json["farms"]:

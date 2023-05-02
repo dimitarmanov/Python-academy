@@ -1,0 +1,364 @@
+{
+  "db": [
+    {
+      "time": "2023-05-02 11:49:59.279990",
+      "interface": "en0",
+      "sent_bytes": 20704992,
+      "recv_bytes": 680772152
+    },
+    {
+      "time": "2023-05-02 11:50:00.285486",
+      "interface": "en0",
+      "sent_bytes": 20704992,
+      "recv_bytes": 680772948
+    },
+    {
+      "time": "2023-05-02 11:50:01.287650",
+      "interface": "en0",
+      "sent_bytes": 20705178,
+      "recv_bytes": 680774090
+    },
+    {
+      "time": "2023-05-02 11:50:02.290956",
+      "interface": "en0",
+      "sent_bytes": 20710433,
+      "recv_bytes": 680782703
+    },
+    {
+      "time": "2023-05-02 11:50:03.296458",
+      "interface": "en0",
+      "sent_bytes": 20710565,
+      "recv_bytes": 680786879
+    },
+    {
+      "time": "2023-05-02 11:50:04.303345",
+      "interface": "en0",
+      "sent_bytes": 20713806,
+      "recv_bytes": 680787339
+    },
+    {
+      "time": "2023-05-02 11:50:05.304857",
+      "interface": "en0",
+      "sent_bytes": 20716619,
+      "recv_bytes": 680794273
+    },
+    {
+      "time": "2023-05-02 11:50:06.309383",
+      "interface": "en0",
+      "sent_bytes": 20717054,
+      "recv_bytes": 680795101
+    },
+    {
+      "time": "2023-05-02 11:50:07.315249",
+      "interface": "en0",
+      "sent_bytes": 20717054,
+      "recv_bytes": 680795101
+    },
+    {
+      "time": "2023-05-02 11:50:08.321238",
+      "interface": "en0",
+      "sent_bytes": 20717532,
+      "recv_bytes": 680796775
+    },
+    {
+      "time": "2023-05-02 11:50:09.327515",
+      "interface": "en0",
+      "sent_bytes": 20717586,
+      "recv_bytes": 680796841
+    },
+    {
+      "time": "2023-05-02 11:50:10.335441",
+      "interface": "en0",
+      "sent_bytes": 20717640,
+      "recv_bytes": 680796907
+    },
+    {
+      "time": "2023-05-02 11:50:11.342967",
+      "interface": "en0",
+      "sent_bytes": 20717826,
+      "recv_bytes": 680798721
+    },
+    {
+      "time": "2023-05-02 11:50:12.350830",
+      "interface": "en0",
+      "sent_bytes": 20717948,
+      "recv_bytes": 680801601
+    },
+    {
+      "time": "2023-05-02 11:50:13.353923",
+      "interface": "en0",
+      "sent_bytes": 20718048,
+      "recv_bytes": 680802381
+    },
+    {
+      "time": "2023-05-02 11:50:14.358331",
+      "interface": "en0",
+      "sent_bytes": 20718214,
+      "recv_bytes": 680802889
+    },
+    {
+      "time": "2023-05-02 11:50:15.366959",
+      "interface": "en0",
+      "sent_bytes": 20718268,
+      "recv_bytes": 680803827
+    },
+    {
+      "time": "2023-05-02 11:50:16.374290",
+      "interface": "en0",
+      "sent_bytes": 20718268,
+      "recv_bytes": 680803913
+    },
+    {
+      "time": "2023-05-02 11:50:17.379094",
+      "interface": "en0",
+      "sent_bytes": 20726364,
+      "recv_bytes": 680810290
+    },
+    {
+      "time": "2023-05-02 11:50:18.386458",
+      "interface": "en0",
+      "sent_bytes": 20727071,
+      "recv_bytes": 680812853
+    },
+    {
+      "time": "2023-05-02 11:50:19.391882",
+      "interface": "en0",
+      "sent_bytes": 20727125,
+      "recv_bytes": 680812919
+    },
+    {
+      "time": "2023-05-02 11:50:20.400020",
+      "interface": "en0",
+      "sent_bytes": 20727463,
+      "recv_bytes": 680813005
+    },
+    {
+      "time": "2023-05-02 11:50:21.407498",
+      "interface": "en0",
+      "sent_bytes": 20727747,
+      "recv_bytes": 680813447
+    },
+    {
+      "time": "2023-05-02 11:50:22.413524",
+      "interface": "en0",
+      "sent_bytes": 20727965,
+      "recv_bytes": 680813539
+    },
+    {
+      "time": "2023-05-02 11:50:23.421194",
+      "interface": "en0",
+      "sent_bytes": 20728315,
+      "recv_bytes": 680814180
+    },
+    {
+      "time": "2023-05-02 11:50:24.429456",
+      "interface": "en0",
+      "sent_bytes": 20728315,
+      "recv_bytes": 680815138
+    },
+    {
+      "time": "2023-05-02 11:50:25.435635",
+      "interface": "en0",
+      "sent_bytes": 20728381,
+      "recv_bytes": 680815823
+    },
+    {
+      "time": "2023-05-02 11:50:26.443560",
+      "interface": "en0",
+      "sent_bytes": 20728381,
+      "recv_bytes": 680818477
+    },
+    {
+      "time": "2023-05-02 11:50:27.447635",
+      "interface": "en0",
+      "sent_bytes": 20728676,
+      "recv_bytes": 680820284
+    },
+    {
+      "time": "2023-05-02 11:50:28.451964",
+      "interface": "en0",
+      "sent_bytes": 20729218,
+      "recv_bytes": 680824758
+    },
+    {
+      "time": "2023-05-02 11:50:29.456250",
+      "interface": "en0",
+      "sent_bytes": 20729218,
+      "recv_bytes": 680828542
+    },
+    {
+      "time": "2023-05-02 11:50:30.461306",
+      "interface": "en0",
+      "sent_bytes": 20729404,
+      "recv_bytes": 680828988
+    },
+    {
+      "time": "2023-05-02 11:50:31.467176",
+      "interface": "en0",
+      "sent_bytes": 20729404,
+      "recv_bytes": 680829182
+    },
+    {
+      "time": "2023-05-02 11:50:32.473991",
+      "interface": "en0",
+      "sent_bytes": 20729625,
+      "recv_bytes": 680829248
+    },
+    {
+      "time": "2023-05-02 11:50:33.482724",
+      "interface": "en0",
+      "sent_bytes": 20729786,
+      "recv_bytes": 680829504
+    },
+    {
+      "time": "2023-05-02 11:50:34.489270",
+      "interface": "en0",
+      "sent_bytes": 20730044,
+      "recv_bytes": 680829812
+    },
+    {
+      "time": "2023-05-02 11:50:35.495582",
+      "interface": "en0",
+      "sent_bytes": 20730044,
+      "recv_bytes": 680829812
+    },
+    {
+      "time": "2023-05-02 11:50:36.502611",
+      "interface": "en0",
+      "sent_bytes": 20730250,
+      "recv_bytes": 680831647
+    },
+    {
+      "time": "2023-05-02 11:50:37.508117",
+      "interface": "en0",
+      "sent_bytes": 20730250,
+      "recv_bytes": 680839896
+    },
+    {
+      "time": "2023-05-02 11:50:38.512263",
+      "interface": "en0",
+      "sent_bytes": 20730404,
+      "recv_bytes": 680843659
+    },
+    {
+      "time": "2023-05-02 11:50:39.516810",
+      "interface": "en0",
+      "sent_bytes": 20730858,
+      "recv_bytes": 680844762
+    },
+    {
+      "time": "2023-05-02 11:50:40.525450",
+      "interface": "en0",
+      "sent_bytes": 20731044,
+      "recv_bytes": 680844950
+    },
+    {
+      "time": "2023-05-02 11:50:41.529933",
+      "interface": "en0",
+      "sent_bytes": 20731044,
+      "recv_bytes": 680845212
+    },
+    {
+      "time": "2023-05-02 11:50:42.538646",
+      "interface": "en0",
+      "sent_bytes": 20731044,
+      "recv_bytes": 680845212
+    },
+    {
+      "time": "2023-05-02 11:50:43.546287",
+      "interface": "en0",
+      "sent_bytes": 20731044,
+      "recv_bytes": 680845212
+    },
+    {
+      "time": "2023-05-02 11:50:44.555333",
+      "interface": "en0",
+      "sent_bytes": 20731044,
+      "recv_bytes": 680847876
+    },
+    {
+      "time": "2023-05-02 11:50:45.563956",
+      "interface": "en0",
+      "sent_bytes": 20731044,
+      "recv_bytes": 680853600
+    },
+    {
+      "time": "2023-05-02 11:50:46.572395",
+      "interface": "en0",
+      "sent_bytes": 20731044,
+      "recv_bytes": 680857324
+    },
+    {
+      "time": "2023-05-02 11:50:47.580290",
+      "interface": "en0",
+      "sent_bytes": 20731044,
+      "recv_bytes": 680857912
+    },
+    {
+      "time": "2023-05-02 11:50:48.587973",
+      "interface": "en0",
+      "sent_bytes": 20731044,
+      "recv_bytes": 680857912
+    },
+    {
+      "time": "2023-05-02 11:50:49.595738",
+      "interface": "en0",
+      "sent_bytes": 20731586,
+      "recv_bytes": 680858910
+    },
+    {
+      "time": "2023-05-02 11:50:50.601646",
+      "interface": "en0",
+      "sent_bytes": 20732152,
+      "recv_bytes": 680859454
+    },
+    {
+      "time": "2023-05-02 11:50:51.606163",
+      "interface": "en0",
+      "sent_bytes": 20732206,
+      "recv_bytes": 680859714
+    },
+    {
+      "time": "2023-05-02 11:50:52.614664",
+      "interface": "en0",
+      "sent_bytes": 20732338,
+      "recv_bytes": 680860768
+    },
+    {
+      "time": "2023-05-02 11:50:53.623425",
+      "interface": "en0",
+      "sent_bytes": 20732338,
+      "recv_bytes": 680860854
+    },
+    {
+      "time": "2023-05-02 11:50:54.627120",
+      "interface": "en0",
+      "sent_bytes": 20732590,
+      "recv_bytes": 680868952
+    },
+    {
+      "time": "2023-05-02 11:50:55.633046",
+      "interface": "en0",
+      "sent_bytes": 20732842,
+      "recv_bytes": 680877820
+    },
+    {
+      "time": "2023-05-02 11:50:56.640246",
+      "interface": "en0",
+      "sent_bytes": 20732842,
+      "recv_bytes": 680880526
+    },
+    {
+      "time": "2023-05-02 11:50:57.644041",
+      "interface": "en0",
+      "sent_bytes": 20732842,
+      "recv_bytes": 680881386
+    },
+    {
+      "time": "2023-05-02 11:50:58.648238",
+      "interface": "en0",
+      "sent_bytes": 20732842,
+      "recv_bytes": 680885238
+    }
+  ]
+}
