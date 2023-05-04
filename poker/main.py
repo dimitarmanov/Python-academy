@@ -8,7 +8,7 @@ if __name__ == '__main__':
 
     print('---------')
 
-    # 1. Във всички игри кой играграч има най-много  perfect_move_percentage?
+    # 1. Във всички игри кой играч има най-много  perfect_move_percentage?
 
     perfect_move = 0
     player_name = ''
